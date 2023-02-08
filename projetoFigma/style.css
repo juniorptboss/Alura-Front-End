@@ -3,6 +3,14 @@ body {
     color: #b0b0b0;
 }
 
+h1 {
+    font-family: 'Krona One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 56px;
+}
+
 .titulo-destaque {
     color: #b8926b;
 }
